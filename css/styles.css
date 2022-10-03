@@ -308,7 +308,7 @@ border-radius: 0px 0px 4px 4px;
     color: var(--white-text-color);
 }
 .buttons .btn-text {
-    padding: top 6px;
+    padding-top: 6px;
     padding-bottom: 6px;
     padding-right: 22px;
     padding-left: 22px;
